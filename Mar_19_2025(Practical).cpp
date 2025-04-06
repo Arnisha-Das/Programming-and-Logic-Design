@@ -21,7 +21,7 @@ int main()
 
 // C++
 
-#include <iostream>
+/*#include <iostream>
 #include<string>
 using namespace std;
 int main() 
@@ -36,7 +36,7 @@ int main()
 	}
 	cout << st1;
     return 0;
-}
+}*/
 
 
 // C using 1 variable
